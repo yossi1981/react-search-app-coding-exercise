@@ -37,7 +37,7 @@ To install and run the Recipe Search App locally, follow these steps:
     ```
 4. **Start the application**:
     ```bash
-    npm start
+    npm run dev
     ```
 
 ## Usage
@@ -48,22 +48,8 @@ To install and run the Recipe Search App locally, follow these steps:
 4. Click on a recipe to view detailed instructions and ingredients.
 5. Save your favorite recipes for quick access.
 
-## Contributing
-
-We welcome contributions! Please follow these steps to contribute:
-
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature-branch`).
-3. Make your changes and commit them (`git commit -m 'Add new feature'`).
-4. Push to the branch (`git push origin feature-branch`).
-5. Create a pull request.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## Contact
 
-If you have any questions or feedback, please open an issue or contact us at [email@example.com](mailto:email@example.com).
+If you have any questions or feedback, please open an issue or contact us at [yossi11981@gmail.com](mailto:yossi11981@gmail.com).
 
 Happy cooking!
